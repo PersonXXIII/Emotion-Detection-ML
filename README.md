@@ -1,9 +1,8 @@
 # Emotion-Detection-ML
-
-# Chatbot-Training-Model
+#
 **INTRODUCTION<br>**
 The program is used to detect emotions through the text.<br>
-**NOTE:** This is the **Training model** of the chatbot.
+**NOTE:** This is only the **Training** of the model.
 #
 **LANGUAGES**
 > Python (3.11+).
@@ -20,11 +19,11 @@ The program is used to detect emotions through the text.<br>
 > Logistic Regression.
 #
 **DATASET<br>**
-Credit to:
-<a href="https://www.kaggle.com/datasets/simaanjali/emotion-analysis-based-on-text"> Sima Anjali </a><br>br>
-No of Classes: 13<br>
-Unique Vakues: 393822<br>
-Classes: 
+<b>Credit to:</b>
+<a href="https://www.kaggle.com/datasets/simaanjali/emotion-analysis-based-on-text"> Sima Anjali </a><br><br>
+<b>No of Classes:</b> 13<br>
+<b>Unique Vakues:</b> 393822<br>
+<b>Classes:</b> 
  1. neutral       674538<br>
  2. love           39553<br>
  3. happiness      27175<br>
