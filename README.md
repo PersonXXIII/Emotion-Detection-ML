@@ -21,7 +21,7 @@ The program is used to detect emotions through the text.<br>
 #
 **DATASET<br>**
 Credit to:
-<a href="https://www.kaggle.com/datasets/simaanjali/emotion-analysis-based-on-text"> Sima Anjali </a><br>
+<a href="https://www.kaggle.com/datasets/simaanjali/emotion-analysis-based-on-text"> Sima Anjali </a><br>br>
 No of Classes: 13<br>
 Unique Vakues: 393822<br>
 Classes: 
