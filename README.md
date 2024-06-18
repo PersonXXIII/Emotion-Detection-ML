@@ -23,7 +23,7 @@ The program is used to detect emotions through the text.<br>
 <a href="https://www.kaggle.com/datasets/simaanjali/emotion-analysis-based-on-text"> Sima Anjali </a><br><br>
 <b>No of Classes:</b> 13<br>
 <b>Unique Vakues:</b> 393822<br>
-<b>Classes:</b> 
+<b>Classes:</b> <br>
 <b>Emotion</b>    | <b>Count</b><br>
  1. neutral    - 674538<br>
  2. love       - 39553<br>
